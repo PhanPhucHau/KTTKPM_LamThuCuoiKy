@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="582dd82d-24a6-4283-9fc6-0fe872bc10a4" name="Changes" comment="demo commit">
-      <change afterPath="$PROJECT_DIR$/src/Cau1_Singleton/ClientTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cau1_Singleton/EagerInitialization.java" afterDir="false" />
+    <list default="true" id="582dd82d-24a6-4283-9fc6-0fe872bc10a4" name="Changes" comment="commit cau 1">
+      <change afterPath="$PROJECT_DIR$/src/Cau3_Builder/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau3_Builder/ClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau3_Builder/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cau3_Builder/HouseBuilder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -40,6 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Java/CuoiKy",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -54,7 +58,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671097487547</updated>
-      <workItem from="1671097488785" duration="1006000" />
+      <workItem from="1671097488785" duration="1888000" />
+      <workItem from="1671103604796" duration="777000" />
     </task>
     <task id="LOCAL-00001" summary="demo commit">
       <created>1671097895969</created>
@@ -63,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671097895969</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit cau 1">
+      <created>1671098772647</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671098772647</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +94,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="demo commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="demo commit" />
+    <MESSAGE value="commit cau 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit cau 1" />
   </component>
 </project>
